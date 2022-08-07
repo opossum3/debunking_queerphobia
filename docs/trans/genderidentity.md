@@ -2,7 +2,7 @@
 layout: default
 title: Myths about gender identity
 nav_order: 2
-parent: Trans Rights!
+parent: Transphobia
 ---
 <script> jtd.setTheme('green'); </script>
 # Myths about gender identity
@@ -18,24 +18,8 @@ parent: Trans Rights!
 
 ## "Trans people are delusional."
 
-I will use the word "delusion" to refer to a strong belief in something that is contrary to empirical evidence.
-This claim usually comes from one of the following beliefs/assumptions:
-
-1. That trans people claim they **are** the other sex when they clearly aren't, and that's delusional because it's denying their physiological reality.
-2. That gender identity doesn't exist _at all_, so claiming that it is at odds with one's sex is delusional because it is claiming the existence of something (gender identity) that isn't there. Sex characteristics alone determine what you are.
-3. That gender identity exists, but it can never be misaligned with one's sex characteristics and hence one's assigned sex, so claiming that there is a misalignment is delusional because such a misalignment is impossible. 
-
-All of these are untrue.
-
----
 ### "Trans people claim they are a different sex."
-Trans people are **not** claiming they **are** entirely the other sex physically, they are claiming they have a gender identity that tells them that they _ought_ to have different sex characteristics (body-related gender incongruence) or perception of them by others (social gender incongruence) _than they currently do_, or used to have if they already transitioned. This is what is called gender identity.
 
-In fact, trans people live every single day of their lives with this reality. Trans people wouldn't even call themselves trans if they were actually delusional and thought they already are and always have been physically the sex they wish they were, they would simply call themselves cis people of their gender identity. The very definition of "transgender" acknowledges the existence of sex characteristics and assigned sex.
-
-Going up to a trans person and saying "but you're biologically/partially still X" is rude not only because it's in most (not all) contexts none of your concern and because it can cause unnecessary and unproductive distress (gender dysphoria), but also because it is condescending: **You're implying the person doesn't already know this and needs you to tell them that.**
-
----
 ### "Gender identity doesn't exist"
 
 #### Gender identity proven by cis people
@@ -49,8 +33,8 @@ Most cis people openly state that they feel they do have a gender identity:
 
 If gender identity didn't exist, no cis person would ever feel anything comparable to gender incongruence or gender dysphoria if they live or appear as a different gender than assigned, and yet they do.
 
-- Amanda Bynes is an actress who starred in the 2006 movie "She's the man" as a girl who impersonates her twin brother. She says this was "a super strange and out-of-body experience" which even caused her depression. ([Ahlgrim, 2018](https://www.insider.com/amanda-bynes-paper-magazine-interview-depression-shes-the-man-2018-11) - URL excluded from Wayback Machine). This indicates she has a female gender identity that prevents her from comfortably appearing and living as male, and since she was AFAB, she is therefore a cis woman.
-- Norah Vincent went undercover as a man for a year to write a book called "Self-Made Man". The book itself and it's conclusions has many immense flaws, [as many reviews will let you know](https://www.goodreads.com/book/show/29434.Self_Made_Man). But the reason for mentioning this is that she ended up so depressed and out of touch with reality (gender dysphoria) [that she checked herself in into a psychiatric hospital.](http://content.time.com/time/arts/article/0,8599,1868983,00.html) ([archive link](https://web.archive.org/web/20200219104300/http://content.time.com/time/arts/article/0,8599,1868983,00.html))
+- Amanda Bynes is an actress who starred in the 2006 movie "She's the man" as a girl who impersonates her twin brother. She says this was "a super strange and out-of-body experience" which even caused her depression. ([Ahlgrim, 2018](https://www.insider.com/amanda-bynes-paper-magazine-interview-depression-shes-the-man-2018-11) - URL excluded from Wayback Machine). This indicates she has a female gender identity that prevents her from comfortably appearing and living as male.
+- Norah Vincent went undercover as a man for a year to write a book called "Self-Made Man". She ended up so depressed and out of touch with reality (gender dysphoria) [that she checked herself in into a psychiatric hospital.](http://content.time.com/time/arts/article/0,8599,1868983,00.html) ([archive link](https://web.archive.org/web/20200219104300/http://content.time.com/time/arts/article/0,8599,1868983,00.html))
 
 ---
 
@@ -76,55 +60,6 @@ Despite this socialization, they are much more likely to later transition back t
 		genetic males. But 8 out of those 14 ended up identifying themselves as male during the course of the study, one had an unclear identity, and only 5 seemed to be happy living as female (with no knowledge that they were born male). ([Reiner and Gearhart, 2004](doi.org/10.1056/NEJMoa022236))
 	- A review of 3 conditions affecting male genitalia also "clearly indicate[s] an increased risk of later patient-initiated gender re-assignment to male after female assignment in infancy or early childhood", although it also notes that the findings "are nevertheless incompatible with the notion of a full determination of core gender identity by prenatal androgens." ([Meyer-Bahlburg 2005](https://doi.org/10.1007/s10508-005-4342-9)).
 		- This means that there might also be a genetic, epigenetic, and/or social factor in determining gender identity. Or it could also mean that gender identity is less exact of a concept as presumed by the term "core gender identity"; that there is some space for variability in the way people interpret/formulate similar feelings of gender incongruence into gender identity.
-
----
-
-#### Recognition by institutions
-
-Gender identity is also recognized as a real, existing trait that can be different from sex and likely unchangable trait/experience by the following reputable institutions and organizations (not an exhaustive list):
-
-<details markdown="1">
-<summary> Open </summary>
-<section markdown="1">
-
-- American Academy of Child and Adolescent Psychiatry
-- American Academy of Dermatology
-- American Academy of Family Physicians
-- American Academy of Nursing
-- American Academy of Pediatrics
-- American Academy of Physician Assistants
-- American College Health Association
-- American College of Nurse-Midwives
-- American College of Obstetricians and Gynecologists
-- American College of Physicians
-- American Counseling Association
-- American Heart Association
-- American Medical Association
-- American Medical Student Association
-- American Nurses Association
-- American Osteopathic Association
-- American Psychiatric Association
-- American Psychological Association
-- American Public Health Association
-- American Society of Plastic Surgeons
-- Endocrine Society
-- GLMA: Health Professionals Advancing LGBTQ Equality
-- National Association of Nurse Practitioners in Women's Health
-- National Association of Social Workers
-- National Commission on Correctional Health Care
-- Pediatric Endocrine Society
-- Society for Adolescent Health and Medicine
-- World Medical Association
-- World Professional Association for Transgender Health
-
-	</section>
-</details>
-
-Source: [[1](https://transhealthproject.org/resources/medical-organization-statements/), [archive](https://web.archive.org/web/20210228012449/https://transhealthproject.org/resources/medical-organization-statements/)] 
-
-While this does not automatically mean this position must be right - simply appealing to authority is not enough -, I have already explained some of the scientific basis of these assertions previously in this section.
-
-For those believing that there is a conspiracy in the medical field to trans all the children because medical transition gives someone a financial gain, making the statements of any medical authority unreliable, [see here](!!!).
 
 ---
 ### "Gender identity can't be naturally misaligned with sex."
