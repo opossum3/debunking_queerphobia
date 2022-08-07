@@ -2,7 +2,7 @@
 layout: default
 title: Myths about medical transition
 nav_order: 4
-parent: Trans Rights!
+parent: Transphobia
 
 ---
 <script> jtd.setTheme('green'); </script>
