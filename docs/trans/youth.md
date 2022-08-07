@@ -2,7 +2,7 @@
 layout: default
 title: Myths about trans youth
 nav_order: 5
-parent: Trans Rights!
+parent: Transphobia
 ---
 <script> jtd.setTheme('green'); </script>
 # Myths about trans youth
