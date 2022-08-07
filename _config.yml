@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Debunking Queerphobia
-description: This is a static site for debunking commonly spread myths and fearmongerung around queer people.
+title: "Debunking Queerphobia"
+description: "This is a static site for debunking commonly spread myths and fearmongerung around queer people."
 baseurl: "/debunking_queerphobia/
 url: "https://miron1917.github.io"
 
