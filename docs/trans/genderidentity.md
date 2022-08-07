@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Myths about gender identity
+title: Myths around gender identity
 nav_order: 2
+has_children: true
 parent: Transphobia
 ---
 <script> jtd.setTheme('green'); </script>
