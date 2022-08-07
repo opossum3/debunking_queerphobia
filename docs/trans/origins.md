@@ -2,7 +2,7 @@
 layout: default
 title: Myths about intentions or origins
 nav_order: 3
-parent: Trans Rights!
+parent: Transphobia
 ---
 <script> jtd.setTheme('green'); </script>
 # Myths about trans people's intentions or origins of their desire to transition
