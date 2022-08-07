@@ -72,24 +72,44 @@ But if trans people weren't truly one gender trapped in the body of another and 
 
 "Transage" is a term invented by pedophiles (and other minor-attracted people) to morally justify their attraction to minors. They claim that while they may be of a certain chronological/legal or biological age, they "identify" as a child or teen, and can therefore date teenagers or children.
 
-People drawing parallels to trans people are missing the fact that "transage" people do not call themselves "transage" because they actually feel like they ought to be a different age, but because they are trying to rationalize their **inherently harmful** attraction to minors. Trans people on the other hand transition out of an innate desire to be of a different sex and/or live as a different gender than previously, since it feels more natural to them. Not to **be with** someone else or to justify harm.
+People drawing parallels to trans people are missing the fact that "transage" people do not call themselves "transage" because they genuinely feel like they ought to be a different age, but because they are trying to justify their **inherently harmful** attraction to minors. Trans people on the other hand transition out of an innate desire **to be** a different sex and/or live as a different gender than previously - not to **be with** someone else or to justify harm.
 
 **Are there people who genuinely do feel like they are psychologically a different age than they are chronologically?** Yes, but it is not labelled "transage". For example 
 - when someone says they feel like they are not where they should be for their age (their social status/"social age" doesn't correspond to their chronological age), 
 - when when someone acts more "childish" than they should (their psychological age does not correspond to their chronological age), 
 - or [prisoners, who tend to age faster and hence have an older "biological age" than chronological](https://www.themarshallproject.org/2015/08/24/do-you-age-faster-in-prison) ([archive link](https://web.archive.org/web/20220728170405/https://www.themarshallproject.org/2015/08/24/do-you-age-faster-in-prison)).
 
-**Comparing "transage" and being transgender doesn't hold up not only in practice, but also in theory:** Age refers to a person's **history** and is constantly updating and changing, while a person's gender as well as sex is a comparatively stable, **present** fact about them. Even genderfluid people change between recurring gender identities. To change one's age, one would have to change their birth date, i.e. an event in the past, which is and always will be physically impossible. It would be more comparable to a trans person (genuinely, not merely for safety reasons) claiming they are not trans and never have been. Changing the present or future is theoretically possible, [even if medicine might not yet be at a point where sex can be _entirely_ changed.](!!!)
+**Comparing "transage" and being transgender doesn't hold up not only in practice, but also in theory:** Age refers to a person's **history** and is constantly updating and changing in a linear way, while a person's gender as well as sex is a comparatively stable, **present** fact about them. Even genderfluid people change between _recurring_ gender identities. To change one's chronological age, one would have to change their birth date, i.e. an event in the past, which is and always will be physically impossible. It would be more comparable to a trans person (genuinely, not merely for safety reasons) claiming they are not trans and never have been. Changing the present or future is theoretically possible, [even if medicine might not yet be at a point where sex can be _entirely_ changed.](!!!)
 
 What can be done is to prevent or at least slow the aging process and therefore, in some sense, "change" people's "biological age". But we already do this since the dawn of medicine by treating diseases, and it is anything but controversial. The average person who today is chronologically 50 is at a different stage in their aging process (=biological age) than someone from the middle ages who is also chronologically 50. In some sense we have all become "transage", if we choose to use the term this way.
 
 ### Transrace/-ethnicity
 
+To change race or ethnicity, determined by one's ancestry, one would have to change their entire family's history, genetics and appearance - not just their own appearance. This is physically impossible, because changing the past is impossible. It is also morally questionable as it involves many more people than oneself (all ancestors and relatives) who will most likely not consent or cannot consent because they are dead.
+
+Meanwhile, sex only refers to a single person's present state, and can theoretically be changed entirely, and [in practice is already changed partially.](!!!) It does not affect other people either. Therefore, changing race and changing gender are not analoguous concepts, even if they are both sociall constructed and mediated.
+
+**Is it possible for some people to genuinely feel like they ought to be a different ethnicity or race than they are?** Yes, but they're not called transrace or transethnicity. They are either 
+1. transracial adoptees\* or people with a migrant background, who feel - mostly just culturally - ambiguous or more like their new found family/country, or 
+2. people merely dissatisfied with their appearance, possibly getting plastic surgery. 
+
+The former expressing that they have ambiguous feelings about their ancestry and ethnic identity is not controversial in most circles. The latter is somewhat controversial but either way still not comparable to trans people because of the previously mentioned conceptual differences between race/ethnicity and gender.
+
+\*people of one ancestral background adopted by a family with a different one
+
 ### Transspecies
+
+Like ethnicity, changing species involves more than oneself (family/ancestors) and like age, involves changing the past (the genetics/species of one's entire ancestral line), which is even in theory physically impossible. Unlike changing sex, which only involves oneself and the present, [and can already be partially changed](!!!).
 
 ### Body integrity disorder/Transabled
 
 ### Body dysmorphia and anorexia
+
+Anorexia, [unlike medical transition](!!!), is **inherently** deadly. 
+
+Body dysmorphia, unlike gender dysphoria, involves people obsessing over some part or aspect of their body and believing it is _worse_ or more important _than it actually is_. In other words, it involves an objectively false belief, like thinking you're fat when you're objectively underweight. Or thinking one's nose is too big and noticeable, even when asking other people reveals nobody thinks it is big, and so on.
+
+Gender dysphoria on the other hand doesn't involve such false beliefs. Trans people correctly recognize they have certain sex characteristics or are treated as a certain gender, it's just that they would rather not.
 
 ---
 
