@@ -2,7 +2,7 @@
 layout: default
 title: Misc
 nav_order: 7
-parent: Trans Rights!
+parent: Transphobia
 ---
 
 # Misc
@@ -124,10 +124,4 @@ Here some links to other common myths and talking points spread by TERFs that ha
 - [Autogynephilia](!!!)
 
 ---
-## True misc
-
-### "Trans people are forcing you to date them."
-
----
-
-### "Trap isn't a slur."
+## "Trans people are forcing you to date them."
