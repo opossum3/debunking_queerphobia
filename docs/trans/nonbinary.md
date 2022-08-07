@@ -2,7 +2,7 @@
 layout: default
 title: In defense of non-binary identities
 nav_order: 6
-parent: Trans Rights!
+parent: Transphobia
 ---
 <script> jtd.setTheme('green'); </script>
 # In defense of non-binary identities
@@ -22,16 +22,8 @@ parent: Trans Rights!
 
 ### "I won't call you a neopronoun, they're not real! They're made up!"
 
-Guess how many other words are made up. (all of them)
+All words are made up.
 
 ---
 
-## "But there's only 2 genders"
-
----
-
-## In defense of controversial identities
-
-### Genderfluid
-
-### Xenogenders
+## "There's only 2 genders"
